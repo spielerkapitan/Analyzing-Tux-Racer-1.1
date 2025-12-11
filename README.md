@@ -14,3 +14,15 @@ some leaked minimal source code of tux racer 1.1:
 after "Expression:" thats the minimal leaked source code
 
 this also reveals why it crashes sometimes with the music enabled when you have the original sdl.dll that comes included with the game itself
+
+Less Technical things:
+
+found texture matching in this texture:
+
+![Screenshot](https://github.com/spielerkapitan/Analyzing-Tux-Racer-1.1/blob/main/icycobblestone.png?raw=true)
+
+The Original Texture:
+
+![Screenshot](https://github.com/spielerkapitan/Analyzing-Tux-Racer-1.1/blob/main/desktop-wallpaper-3ds-max-texture-library.jpg?raw=true)
+
+its from 3ds max texture library
