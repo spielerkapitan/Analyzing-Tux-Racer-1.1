@@ -43,7 +43,7 @@ its from 3ds max texture library.
 
 # Unused Content
 
-in the folder courses in older versions than 1.1, you can find a cup called "antartic"
+in the folder courses in older versions than 1.1, you can find a cup called "antarctic"
 
 the courses are still there, but these dont have any items.tcl, which i guess they originally had one.
 
