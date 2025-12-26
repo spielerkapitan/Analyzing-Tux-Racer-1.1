@@ -1,5 +1,5 @@
-# Analyzing Tux-Racer 1.1
-i just wanted to analyze tux racer 1.1 for fun
+# Analyzing Tux-Racer (Commercial Edition)
+i just wanted to analyze tux racer commercial edition for fun
 
 anyways
 
