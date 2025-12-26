@@ -41,3 +41,15 @@ The Original Texture:
 its from 3ds max texture library.
 
 
+# Unused Content
+
+in the folder courses in older versions than 1.1, you can find a cup called "antartic"
+
+the courses are still there, but these dont have any items.tcl, which i guess they originally had one.
+
+and also theres objects with their respective .obj.strip!
+
+based on the objects.tcl of the cup, it seems like the courses originally had a lot of objects.
+
+screenshot of what the trophy looks:
+![Screenshot](https://github.com/spielerkapitan/Analyzing-Tux-Racer-Commercial-Edition/blob/main/antartic%20cup%20trophy.png?raw=true)
